@@ -1,0 +1,11 @@
+{
+    "synaptik_theme": true,
+    "name": "Gazette",
+    "folder": "gazette",
+    "version": "1.0.3",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "Print-newspaper theme for chronological blogs. Masthead header, full-serif typography with drop caps, and a persistent dated-archive sidebar on every page. Ships with Full Width and Archive page templates.",
+    "download_url": "https://synaptikcms.com/files/themes/gazette.zip",
+    "info_url": "https://synaptikcms.com/theme-info/gazette-theme/"
+}

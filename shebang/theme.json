@@ -1,0 +1,11 @@
+{
+    "synaptik_theme": true,
+    "name": "Shebang",
+    "folder": "shebang",
+    "version": "1.0.2",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "Monospace developer theme: terminal-inspired typography end to end, prompt-style navigation, dashed-border cards, indigo accent. System monospace stack only, automatic light/dark via prefers-color-scheme, no JavaScript required.",
+    "download_url": "https://synaptikcms.com/files/themes/shebang.zip",
+    "info_url": "https://synaptikcms.com/theme-info/shebang-theme/"
+}

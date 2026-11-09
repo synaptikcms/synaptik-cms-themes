@@ -1,0 +1,12 @@
+{
+    "name": "Portfolio",
+    "folder": "portfolio",
+    "version": "1.1.7",
+    "description": "A vibrant, animated portfolio theme for artists and creative professionals. Features a bento-grid layout, bold typography, and rich project display.",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "download_url": "https://synaptikcms.com/files/themes/portfolio.zip",
+    "info_url": "https://synaptikcms.com/theme-info/portfolio-theme/",
+    "synaptik_theme": true,
+    "demo_url": "theme-info/portfolio-theme/"
+}

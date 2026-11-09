@@ -1,0 +1,11 @@
+{
+    "synaptik_theme": true,
+    "name": "Dispatch",
+    "folder": "dispatch",
+    "version": "1.0.2",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "Ultra-minimal single-column blog theme. A thin changelog-style timeline rail marks the latest articles by date on the homepage and archive listings, with a single coral accent and generous whitespace. Ships with Wide and Changelog page templates.",
+    "download_url": "https://synaptikcms.com/files/themes/dispatch.zip",
+    "info_url": "https://synaptikcms.com/theme-info/dispatch-theme/"
+}

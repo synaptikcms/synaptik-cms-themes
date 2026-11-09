@@ -1,0 +1,12 @@
+{
+    "name": "Myelin",
+    "folder": "myelin",
+    "version": "1.0.4",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "An ultra-clean, versatile flagship theme inspired by neural anatomy. Warm neutral palette, refined typography, subtle animations, and dedicated page templates for corporate, personal, blog and portfolio sites. Ships with a sticky dropdown navigation, full shortcode and gallery styling, polished contact form, related content, and custom fields.",
+    "synaptik_theme": true,
+    "download_url": "https://synaptikcms.com/files/themes/myelin.zip",
+    "info_url": "https://synaptikcms.com/theme-info/myelin-theme/",
+    "demo_url": "theme-info/myelin-theme/"
+}

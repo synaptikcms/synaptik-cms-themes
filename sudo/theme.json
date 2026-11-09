@@ -1,0 +1,11 @@
+{
+    "synaptik_theme": true,
+    "name": "Sudo",
+    "folder": "sudo",
+    "version": "1.0.2",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "IDE-inspired developer theme: fixed sidebar file-tree navigation, a file tab bar, a directory-listing home and archive view instead of card grids, and a status bar footer. Monospace throughout, automatic light/dark via prefers-color-scheme, no JavaScript required.",
+    "download_url": "https://synaptikcms.com/files/themes/sudo.zip",
+    "info_url": "https://synaptikcms.com/theme-info/sudo-theme/"
+}

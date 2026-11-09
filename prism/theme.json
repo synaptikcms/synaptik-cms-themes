@@ -1,0 +1,12 @@
+{
+    "name": "Prism",
+    "folder": "prism",
+    "version": "1.0.5",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "Vibrant flat-design theme with a 5-color palette, dark/light mode switcher, horizontal article cards, square color-flip project tiles, and clip-path scroll reveals.",
+    "download_url": "https://synaptikcms.com/files/themes/prism.zip",
+    "info_url": "https://synaptikcms.com/theme-info/prism-theme/",
+    "demo_url": "theme-info/prism-theme/",
+    "synaptik_theme": true
+}

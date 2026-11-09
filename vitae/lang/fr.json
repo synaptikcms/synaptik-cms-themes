@@ -1,0 +1,15 @@
+{
+    "_meta": { "theme": "Vitae", "locale": "fr" },
+    "vitae_available":     "Disponible pour des missions",
+    "vitae_contact":       "Me contacter",
+    "vitae_scroll":        "D\u00e9filer",
+    "vitae_nothing":       "Rien ici pour l'instant.",
+    "vitae_hello":         "Bonjour, je suis",
+    "vitae_skills":        "Comp\u00e9tences",
+    "vitae_experience":    "Exp\u00e9rience",
+    "vitae_skills_hint":   "Ajoutez des comp\u00e9tences via R\u00e9glages \u2192 Champs personnalis\u00e9s \u2192 Pages (cl\u00e9 : skills).",
+    "vitae_timeline_hint": "Ajoutez des entr\u00e9es via R\u00e9glages \u2192 Champs personnalis\u00e9s \u2192 Pages (cl\u00e9 : timeline).",
+    "vitae_read_more":     "Lire la suite",
+    "vitae_my_skills":     "Mes comp\u00e9tences",
+    "vitae_my_experience": "Mon parcours"
+}

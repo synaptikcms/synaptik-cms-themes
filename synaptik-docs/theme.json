@@ -1,0 +1,12 @@
+{
+    "synaptik_theme": true,
+    "name": "Synaptik-docs",
+    "version": "1.1.9",
+    "description": "A clean, documentation-focused theme with a collapsible sidebar, in-page TOC, light/dark mode toggle, and inline search dropdown. Designed for structured technical content.",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "download_url": "https://synaptikcms.com/files/themes/synaptik-docs.zip",
+    "info_url": "https://synaptikcms.com/theme-info/synaptik-docs-theme/",
+    "demo_url": "theme-info/synaptik-docs-theme/",
+    "screenshot": "preview.jpg"
+}

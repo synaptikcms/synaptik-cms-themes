@@ -1,0 +1,15 @@
+{
+    "_meta": { "theme": "Vitae", "locale": "en" },
+    "vitae_available":     "Available for work",
+    "vitae_contact":       "Get in touch",
+    "vitae_scroll":        "Scroll",
+    "vitae_nothing":       "Nothing here yet.",
+    "vitae_hello":         "Hello, I'm",
+    "vitae_skills":        "Skills",
+    "vitae_experience":    "Experience",
+    "vitae_skills_hint":   "Add skills via Settings \u2192 Custom Fields \u2192 Pages (field key: skills).",
+    "vitae_timeline_hint": "Add entries via Settings \u2192 Custom Fields \u2192 Pages (field key: timeline).",
+    "vitae_read_more":     "Read more",
+    "vitae_my_skills":     "My Skills",
+    "vitae_my_experience": "My Experience"
+}

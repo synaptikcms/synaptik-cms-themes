@@ -1,0 +1,100 @@
+/* ============================================================
+   Vanta Theme — contact.css
+   Auto-injected by render_contact_form_html() / [contact_form]
+   ============================================================ */
+
+.contact-form {
+  max-width: 520px;
+}
+
+.contact-field {
+  margin-bottom: 1.5rem;
+}
+
+.contact-form label {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background: var(--bg-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 300;
+  color: var(--text);
+  transition: border-color var(--dur-fast), box-shadow var(--dur-fast);
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: rgba(138, 255, 94, 0.4);
+  box-shadow: 0 0 0 3px rgba(138, 255, 94, 0.08);
+}
+
+.contact-form textarea {
+  min-height: 150px;
+  resize: vertical;
+}
+
+.contact-form button[type="submit"],
+.contact-form input[type="submit"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75em 1.8em;
+  background: var(--accent);
+  color: #000;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background var(--dur-fast), transform var(--dur-fast);
+  margin-top: 0.5rem;
+}
+
+.contact-form button[type="submit"]:hover,
+.contact-form input[type="submit"]:hover {
+  background: #a0ff70;
+  transform: translateY(-1px);
+}
+
+.contact-status {
+  margin-top: 1.5rem;
+  padding: 0.9rem 1.1rem;
+  border-left: 2px solid;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 0.9rem;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+.contact-status.success {
+  border-color: var(--accent);
+  background: var(--accent-dim);
+  color: var(--text);
+}
+
+.contact-status.error {
+  border-color: var(--danger);
+  background: rgba(255, 94, 94, 0.08);
+  color: var(--danger);
+}
+
+.h-captcha { margin: 1.5rem 0 0; }

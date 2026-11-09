@@ -1,0 +1,12 @@
+{
+    "name": "Vanta",
+    "folder": "vanta",
+    "version": "1.0.4",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "A dark editorial theme with bold typography, bright green accent colour, top navigation, dropdown search field and card-based grid layout.",
+    "synaptik_theme": true,
+    "download_url": "https://synaptikcms.com/files/themes/vanta.zip",
+    "info_url": "https://synaptikcms.com/theme-info/vanta-theme/",
+    "demo_url": "theme-info/vanta-theme/"
+}

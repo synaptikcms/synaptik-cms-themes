@@ -1,0 +1,12 @@
+{
+    "name": "Axion",
+    "folder": "axion",
+    "version": "1.0.4",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "An editorial, asymmetric flagship theme with a floating pill navigation, oversized typographic hero, distinctive section layouts for each page template (corporate walkthrough, personal long-form, editorial blog, bento portfolio, split contact), full shortcode and gallery styling, and refined animations.",
+    "synaptik_theme": true,
+    "download_url": "https://synaptikcms.com/files/themes/axion.zip",
+    "info_url": "https://synaptikcms.com/theme-info/axion-theme/",
+    "demo_url": "theme-info/axion-theme/"
+}

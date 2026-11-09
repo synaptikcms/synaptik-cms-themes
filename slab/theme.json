@@ -1,0 +1,11 @@
+{
+    "synaptik_theme": true,
+    "name": "Slab",
+    "folder": "slab",
+    "version": "1.0.2",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "Neo-brutalist theme: thick black borders, hard offset shadows, no rounded corners, oversized uppercase headings on a cream background with an electric-lime accent. System fonts only, zero external requests, CSS-only mobile nav.",
+    "download_url": "https://synaptikcms.com/files/themes/slab.zip",
+    "info_url": "https://synaptikcms.com/theme-info/slab-theme/"
+}

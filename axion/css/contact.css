@@ -1,0 +1,8 @@
+/* ── Contact form (system markup) ──────────────────────────────────────── */
+.sl-contact-form, .contact-form, form.contact-form { display: grid; gap: 14px; }
+.sl-contact-form label, .contact-form label { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; color: var(--ax-ink-soft); text-transform: uppercase; }
+.sl-contact-form input[type="text"], .sl-contact-form input[type="email"], .sl-contact-form textarea, .contact-form input[type="text"], .contact-form input[type="email"], .contact-form textarea { width: 100%; padding: 14px 16px; font: inherit; font-size: 0.98rem; color: var(--ax-ink); background: var(--ax-bg-card); border: 1px solid var(--ax-line); border-radius: var(--ax-r-sm); transition: border-color var(--ax-dur) var(--ax-ease); }
+.sl-contact-form input:focus, .sl-contact-form textarea:focus, .contact-form input:focus, .contact-form textarea:focus { outline: none; border-color: var(--ax-ink); }
+.sl-contact-form textarea, .contact-form textarea { min-height: 160px; resize: vertical; }
+.sl-contact-form button, .sl-contact-form input[type="submit"], .contact-form button, .contact-form input[type="submit"] { justify-self: start; display: inline-flex; align-items: center; gap: 8px; padding: 14px 28px; font-size: 0.95rem; font-weight: 600; background: var(--ax-ink); color: var(--ax-bg); border: 1px solid var(--ax-ink); border-radius: var(--ax-r-pill); transition: background var(--ax-dur) var(--ax-ease), transform var(--ax-dur) var(--ax-ease); }
+.sl-contact-form button:hover, .contact-form button:hover { background: #000; transform: translateY(-1px); }

@@ -1,0 +1,15 @@
+/* Vitae Theme — contact.css */
+.contact-form { display: flex; flex-direction: column; gap: 1.25rem; max-width: 600px; }
+.contact-field { display: flex; flex-direction: column; gap: .45rem; }
+.contact-field label { font-size: .8rem; font-weight: 600; color: var(--vt-muted); letter-spacing: .04em; text-transform: uppercase; }
+.required-mark { color: var(--vt-acc2); }
+.contact-field input, .contact-field textarea { background: var(--vt-surface); border: 1px solid var(--vt-border); border-radius: 8px; color: var(--vt-text); font-family: inherit; font-size: .95rem; padding: .7rem 1rem; transition: border-color .2s, background .2s; width: 100%; outline: none; resize: vertical; }
+.contact-field input::placeholder, .contact-field textarea::placeholder { color: var(--vt-muted); opacity: .6; }
+.contact-field input:focus, .contact-field textarea:focus { border-color: var(--vt-acc); background: rgba(139,92,246,.04); }
+.contact-field textarea { min-height: 140px; }
+.contact-submit button { display: inline-flex; align-items: center; justify-content: center; padding: .7rem 1.75rem; background: linear-gradient(135deg, var(--vt-acc), var(--vt-acc2)); color: #fff; border: none; border-radius: 8px; font-size: .9rem; font-weight: 600; font-family: inherit; cursor: pointer; transition: opacity .2s, transform .2s; align-self: flex-start; }
+.contact-submit button:hover { opacity: .88; transform: translateY(-1px); }
+.contact-submit button:active { transform: translateY(0); }
+.contact-status { padding: .8rem 1.1rem; border-radius: 8px; font-size: .9rem; margin-bottom: .5rem; }
+.contact-status.success { background: rgba(34,197,94,.1); border: 1px solid rgba(34,197,94,.25); color: #86efac; }
+.contact-status.error { background: rgba(248,113,113,.1); border: 1px solid rgba(248,113,113,.25); color: #fca5a5; }

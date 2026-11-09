@@ -1,0 +1,12 @@
+{
+    "name": "Nova",
+    "folder": "nova",
+    "version": "1.1.6",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "description": "A modern, animated theme featuring a full-screen hero, sticky transparent header with burger navigation, orange and teal accents on a clean white canva.",
+    "synaptik_theme": true,
+    "download_url": "https://synaptikcms.com/files/themes/nova.zip",
+    "info_url": "https://synaptikcms.com/theme-info/nova-theme/",
+    "demo_url": "theme-info/nova-theme/"
+}

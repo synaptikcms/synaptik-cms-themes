@@ -1,0 +1,15 @@
+{
+    "_meta": { "theme": "Vitae", "locale": "es" },
+    "vitae_available":     "Disponible para proyectos",
+    "vitae_contact":       "Cont\u00e1ctame",
+    "vitae_scroll":        "Desplazar",
+    "vitae_nothing":       "Nada aqu\u00ed todav\u00eda.",
+    "vitae_hello":         "Hola, soy",
+    "vitae_skills":        "Habilidades",
+    "vitae_experience":    "Experiencia",
+    "vitae_skills_hint":   "A\u00f1ade habilidades en Ajustes \u2192 Campos personalizados \u2192 P\u00e1ginas (clave: skills).",
+    "vitae_timeline_hint": "A\u00f1ade entradas en Ajustes \u2192 Campos personalizados \u2192 P\u00e1ginas (clave: timeline).",
+    "vitae_read_more":     "Leer m\u00e1s",
+    "vitae_my_skills":     "Mis habilidades",
+    "vitae_my_experience": "Mi experiencia"
+}

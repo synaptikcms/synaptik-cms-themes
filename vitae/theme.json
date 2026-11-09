@@ -1,0 +1,25 @@
+{
+    "synaptik_theme": true,
+    "name": "Vitae",
+    "version": "1.0.3",
+    "description": "CV/portfolio theme with identity card hero, animated skill bars, experience timeline, masonry project grid, dark/light toggle, and styled contact form. All CV data is managed from a single admin page.",
+    "author": "Synaptik",
+    "author_url": "https://synaptikcms.com",
+    "download_url": "https://synaptikcms.com/files/themes/vitae.zip",
+    "info_url": "https://synaptikcms.com/theme-info/vitae-theme/",
+    "demo_url": "theme-info/vitae-theme/",
+    "screenshot": "preview.jpg",
+    "vitae_options": {
+        "cv_page_slugs": [
+            "home-data",
+            "homedata",
+            "about",
+            "a-propos",
+            "apropos"
+        ],
+        "show_availability": true,
+        "show_scroll_hint": true,
+        "schema_type": "Person",
+        "availability_i18n_key": "vitae_available"
+    }
+}
